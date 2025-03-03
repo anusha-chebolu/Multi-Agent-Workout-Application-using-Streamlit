@@ -1,4 +1,4 @@
-# Advanced-AI-Workout-Trainer
+# Multi-Agent Workout Application using Streamlit
 
 ## Overview
 The Multi-Agent Workout Application is a cutting-edge platform designed to provide personalized fitness and nutrition plans. Powered by LangFlow and GPT-4, this application offers users tailored workout routines and dietary suggestions. The use of AstraDB ensures efficient data management, and the Streamlit-based frontend enhances the user experience. The integration of these technologies has increased scalability by 40% and boosted user engagement by 25%.
