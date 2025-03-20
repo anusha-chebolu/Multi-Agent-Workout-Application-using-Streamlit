@@ -10,7 +10,7 @@ The Multi-Agent Workout Application is a cutting-edge platform designed to provi
 - **AstraDB Integration:** Robust data management to handle user data securely and efficiently.
 
 ## Technology Stack
-- **LangFlow:** Powers the AI-driven personalized suggestions.
+- **LangFlow:** A framework built on langchain 
 - **GPT-4:** Provides robust AI capabilities for generating accurate and relevant content.
 - **Streamlit:** Used for building the frontend interface.
 - **AstraDB:** Manages the application's data storage and queries efficiently.
